@@ -22,7 +22,7 @@ Enter the ending snapshot number: 5
 ```
    
 3. To obtain the `force.raw` and `energy.raw` files -
-   Run the script named `convert_forces_and_energy_to_raw.py` and input the required values when prompted. For example, if you input `md-5.for` for the input file path, `120` for the number of atoms per frame, `0` for the starting snapshot number, and `5` for the ending snapshot number, the script will create two `.raw` files named `force.raw` and `energy.raw`.
+   Run the script named `convert_to_force_raw_from_cp2k.py` and input the required values when prompted. For example, if you input `test.for` for the input file path, `120` for the number of atoms per frame, `0` for the starting snapshot number, and `5` for the ending snapshot number, the script will create two `.raw` files named `force.raw` and `energy.raw`.
 
 ```sh
 Enter the path to the input file: md-5.for
