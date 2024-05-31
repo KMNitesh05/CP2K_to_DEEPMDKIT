@@ -9,6 +9,8 @@ Enter the number of rows: 14001
 Enter the value for X: 19.00
 Enter the value for Y: 19.00
 Enter the value for Z: 19.00
+```
 
+2. To obtain the box.raw file -
 
 
