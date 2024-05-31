@@ -29,5 +29,15 @@ Enter the path to the input file: md-5.for
 Enter the number of atoms per frame: 120
 Enter the starting snapshot number: 2000
 Enter the ending snapshot number: 16000
+```
 
+4. To convert raw files to npy files -
+   Run the script named `convert_raw_to_npy.py` and input the required values when prompted. For example, if you input `box.raw` for the raw file path, the script will convert the raw file to a `.npy` file with the same base name.
+
+```sh
+Enter the path to the raw file: box.raw
+```
+
+Contact : Nitesh Kumar 
+Email : niteshgoesactive@gmail.com
 
