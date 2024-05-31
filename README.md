@@ -41,7 +41,7 @@ Enter the path to the raw file: box.raw
 Contact : Nitesh Kumar 
 Email : niteshgoesactive@gmail.com
 
-Please Cite if you find the software useful for your research: 
+Please Cite if you find this software useful for your research: 
 
 ```sh
 @misc{Kumar_CP2K_to_DEEPMDKIT,
