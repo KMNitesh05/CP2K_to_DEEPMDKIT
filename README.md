@@ -2,7 +2,7 @@
 
 
 1. To obtain the box.raw file -
-   Run the script named "convert_to_box_raw_from_cp2k" and input `5` for the number of rows, `19.00` for X, `19.00` for Y, and `19.00` for Z when prompted, the script will create a DataFrame with 5 rows, each containing the values (19.00, 19.00, 19.00) and save it to `box.raw'.
+   Run the script named `convert_to_box_raw_from_cp2k.py` and input `5` for the number of rows, `19.00` for X, `19.00` for Y, and `19.00` for Z when prompted, the script will create a DataFrame with 5 rows, each containing the values (19.00, 19.00, 19.00) and save it to `box.raw'.
 
 ```sh
 Enter the number of rows: 5
@@ -19,5 +19,8 @@ Enter the path to the input file: test.xyz
 Enter the number of atoms per frame: 5
 Enter the starting snapshot number: 0
 Enter the ending snapshot number: 5
+```
+3. To obtain the force.raw and energy.raw file -
+   
 
 
