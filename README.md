@@ -1,4 +1,4 @@
-# CP2K_to_DEEPMDKIT : A Collection of Python Scripts to convert CP2K output to DEEPMD-KIT input. 
+# CP2K-to-DEEPMDKIT : A Collection of Python Scripts to convert CP2K output to DEEPMD-KIT input. 
 
 
 1. To obtain the box.raw file -
@@ -44,8 +44,8 @@ Email : niteshgoesactive@gmail.com
 Please Cite if you find this package useful for your research: 
 
 ```sh
-@misc{CP2K_to_DEEPMDKIT,
-  title={CP2K\_to\_DEEPMDKIT: A Collection of Python Scripts to convert CP2K output to DEEPMD-KIT input},
+@misc{CP2K-to-DEEPMDKIT,
+  title={CP2K-to-DEEPMDKIT: A Collection of Python Scripts to convert CP2K output to DEEPMD-KIT input},
   author={Nitesh Kumar},
   year={2024},
   howpublished={\url{https://github.com/KMNitesh05/CP2K_to_DEEPMDKIT}},
